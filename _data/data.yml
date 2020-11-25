@@ -42,28 +42,6 @@ sidebar:
       - item: Films
         link:
 
-education:
-    - degree: Natural Science Bachelor's Degree
-      university: Colegio Santa Teresa de Jesus
-      time: 2008 - 2014
-      details: 
-    
-    - degree: Tecnicatura en Medicina Nuclear
-      university: Universidad de Buenos Aires
-      time: 2016 - 2018
-      details: 
-
-    - degree: Testing and Functional Analyst training
-      university: Accenture
-      time: 2017 
-      details: 
-
-    - degree: Introduction to Programming with C#.NET
-      university: EducationIT
-      time: 2019 
-      details: 
-
-
 experiences:
     - role: Functional Analyst
       time: 2017 - 2020
@@ -75,6 +53,30 @@ experiences:
         - Diagnosis and resolution of incidents using the platform ServiceNOW.
         - Create and modify of documentation of procedures; reports and trainings. 
         - Control job execution schedule using platform Control-M on PRD and TEST environment.
+
+publications:
+    title: Education
+    intro: |
+    papers:
+      - title: Natural Science Bachelor's Degree
+        link: "#"
+        authors: Colegio Santa Teresa de Jesus
+        conference: 2008 - 2014
+
+      - title: Tecnicatura en Medicina Nuclear
+        link: "#"
+        authors: Universidad de Buenos Aires
+        conference: 2016 - 2018
+
+      - title: Testing and Functional Analyst training
+        link: "#"
+        authors: Accenture
+        conference: 2017
+
+      - title: Introduction to Programming with C#.NET
+        link: "#"
+        authors: EducacionIT
+        conference: 2019
 
 skills:
     title: Skills &amp; Proficiency
